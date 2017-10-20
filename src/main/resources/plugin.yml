@@ -1,0 +1,8 @@
+name: TranslateAPI
+version: 1.0
+main: xyz.raymark.plugin.translateapi.TranslateAPI
+
+commands:
+  lang:
+    desc: ciao
+    usage: /lang arg
